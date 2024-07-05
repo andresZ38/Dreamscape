@@ -1,0 +1,23 @@
+<svg width="50" height="63" viewBox="0 0 50 63" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="27.5" cy="30.5" r="17.5" fill="url(#paint0_radial_132_2201)"/>
+<path d="M29.8383 23.3477L30.4708 25.2644C30.7566 26.1515 31.58 26.7546 32.512 26.7594H34.5053C35.4402 26.7535 36.2714 27.3532 36.5605 28.2423C36.8495 29.1313 36.53 30.1053 35.7703 30.6502L34.1316 31.8386C33.3772 32.3862 33.0602 33.3566 33.3458 34.244L33.9783 36.1606C34.2911 37.0511 33.9857 38.0414 33.2257 38.6009C32.4657 39.1604 31.4293 39.158 30.672 38.5948L29.062 37.3969C28.3073 36.8501 27.2867 36.8501 26.532 37.3969L24.922 38.5948C24.1689 39.146 23.1459 39.1475 22.3912 38.5984C21.6366 38.0494 21.3231 37.0756 21.6158 36.1894L22.2483 34.2727C22.5338 33.3853 22.2168 32.415 21.4624 31.8673L19.7853 30.6598C19.0103 30.1137 18.6854 29.1239 18.9858 28.2247C19.2863 27.3255 20.1411 26.7299 21.0887 26.7594H23.082C24.0089 26.7573 24.8308 26.1631 25.1233 25.2836L25.7558 23.3669C26.0393 22.4816 26.8605 21.8794 27.7901 21.875C28.7196 21.8707 29.5464 22.4651 29.8383 23.3477Z" fill="#FF9921"/>
+<circle opacity="0.9" cx="34" cy="2" r="2" fill="#FAFAFA"/>
+<ellipse opacity="0.8" cx="7" cy="9.01038" rx="3.263" ry="3.27712" transform="rotate(-15 7 9.01038)" fill="#FBFBFB"/>
+<ellipse opacity="0.5" cx="32" cy="58.0104" rx="3.263" ry="3.27712" transform="rotate(-15 32 58.0104)" fill="#FBFBFB"/>
+<ellipse opacity="0.5" cx="6.40458" cy="45.4129" rx="2.77729" ry="2.7893" transform="rotate(-15 6.40458 45.4129)" fill="#FAFAFA"/>
+<ellipse opacity="0.5" cx="41.1179" cy="50.1234" rx="1.72765" ry="1.73512" transform="rotate(-15 41.1179 50.1234)" fill="#FAFAFA"/>
+<ellipse opacity="0.8" cx="2.58367" cy="32.5909" rx="2.10763" ry="2.11675" transform="rotate(-15 2.58367 32.5909)" fill="#FAFAFA"/>
+<circle cx="21" cy="8" r="1" fill="#FAFAFA"/>
+<circle cx="47" cy="41" r="1" fill="#FAFAFA"/>
+<circle opacity="0.5" cx="36" cy="11" r="1" fill="#FAFAFA"/>
+<circle opacity="0.7" cx="46.2134" cy="12.2127" r="2.62375" transform="rotate(-15 46.2134 12.2127)" fill="#FAFAFA"/>
+<circle opacity="0.8" cx="47.2882" cy="25.2886" r="1.05177" transform="rotate(-15 47.2882 25.2886)" fill="#FAFAFA"/>
+<ellipse cx="7.26776" cy="22.2729" rx="1.84993" ry="1.85793" transform="rotate(-15 7.26776 22.2729)" fill="#FAFAFA"/>
+<ellipse opacity="0.9" cx="19.0016" cy="51.0071" rx="1.63278" ry="1.63984" transform="rotate(-15 19.0016 51.0071)" fill="#FAFAFA"/>
+<defs>
+<radialGradient id="paint0_radial_132_2201" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(27.5 30.5) rotate(90) scale(17.5)">
+<stop stop-color="#EEEEEE"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+</defs>
+</svg>
